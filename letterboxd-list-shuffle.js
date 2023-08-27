@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Letterboxd List Shuffle
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Adds a Shuffle button to a Letterboxd list.
 // @author       Megane0103
 // @match        https://letterboxd.com/*/watchlist/*
 // @match        https://letterboxd.com/*/list/*/*
+// @match        https://letterboxd.com/*/films/*
 // @grant        none
 // @license MIT; https://github.com/Megane0103/letterboxd-List-shuffle/blob/main/LICENSE
 // @copyright 2023, Megane0103 (https://github.com/Megane0103)
